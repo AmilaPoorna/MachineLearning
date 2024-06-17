@@ -23,7 +23,3 @@ Make sure you have the following installed:
 
 - Python 3.11.5
 - Jupyter Notebook
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
