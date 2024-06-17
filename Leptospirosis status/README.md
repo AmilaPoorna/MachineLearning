@@ -1,6 +1,6 @@
 # Leptospirosis Status Prediction
 
-This project predicts the Leptospirosis status of the patient using the test dataset using a Jupyter notebook. The notebook also includes data preprocessing, visualization and analysis to understand the trends and patterns of Leptospirosis cases.
+This project predicts the Leptospirosis status of the patient using a Jupyter notebook in the test dataset. The notebook also includes data preprocessing, visualization and analysis to understand the trends and patterns of Leptospirosis cases.
 
 ## Contents
 
