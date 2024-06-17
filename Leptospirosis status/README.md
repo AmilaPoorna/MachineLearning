@@ -5,7 +5,7 @@ This project predicts the Leptospirosis status of the patient using the test dat
 ## Contents
 
 - **Data Preprocessing:** Also includes data loading.
-- **Descriptive and correlation analysis:** Includes heatmap, chi square tests.
+- **Descriptive and correlation analysis:** Includes heatmaps, chi square tests.
 - **Modelling:** Includes transformations and implementation of a logistic model to predict Leptospirosis status.
 - **Predicting:** Accuarcy of the model is 0.85878.
 
@@ -13,9 +13,9 @@ This project predicts the Leptospirosis status of the patient using the test dat
 
 To run the notebook, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/AmilaPoorna/MachineLearning`
-2. Navigate to the project directory: `cd Leptospirosis\ status`
-3. Open the notebook: `jupyter notebook Leptospirosis\ status.ipynb`
+1. Clone the repository: `git clone https://github.com/AmilaPoorna/MachineLearning.git`
+2. Navigate to the project directory: `cd "Leptospirosis status"`
+3. Open the notebook: `jupyter notebook "Leptospirosis status.ipynb"`
 
 ## Prerequisites
 
