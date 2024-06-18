@@ -4,7 +4,7 @@ Welcome to the Machine Learning Projects Repository. This repository contains ma
 
 ## Projects
 
-### 1. Leptospirosis Status Analysis
+### 1. Leptospirosis Status Prediction
 
 ## Contact
 For any questions or feedback, please reach out to [arunodamkap@gmail.com](mailto:arunodamkap@gmail.com).
