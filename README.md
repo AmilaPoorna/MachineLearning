@@ -5,3 +5,4 @@ Welcome to the Machine Learning Projects Repository. This repository features ma
 ## Projects
 
 ### 1. Leptospirosis Status Prediction
+### 2. Tesla Stock Price Prediction
