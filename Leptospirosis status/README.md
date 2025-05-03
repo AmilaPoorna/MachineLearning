@@ -2,7 +2,7 @@
 This project focuses on predicting the leptospirosis disease status of patients using clinical data. The workflow includes data preprocessing, exploratory data analysis (EDA), and the training of a basic logistic regression model. Final predictions are output to a CSV file called `test_predictions.csv`.
 
 ### 🧪 Dataset
-The dataset used in this project includes clinical data, collected from multiple hospitals in Sri Lanka. The data is split into training and testing sets, and is accompanied by a data description file called `lepto_description.xls`.
+The dataset used in this project includes clinical data, collected from multiple hospitals in Sri Lanka. The dataset is accompanied by a data description file called `lepto_description.xls` and is split into training and test sets.
 
 Training Samples: 1387
 
