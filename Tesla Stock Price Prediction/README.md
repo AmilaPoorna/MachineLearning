@@ -8,7 +8,7 @@ This project focuses on predicting the stock prices of Tesla (and AMD) by integr
 ### Project Overview
 
 - Extracting/loading Reddit post titles depending on the method.
-- Performing sentiment analysis on the data using the VADER model.
+- Performing sentiment analysis on the data using the VADER lexicon.
 - Merging sentiment scores with historical market data from Yahoo! Finance.
 - Building and training RNN + LSTM models to predict stock closing prices.
 - Evaluating model performance using RMSE and MAPE.
