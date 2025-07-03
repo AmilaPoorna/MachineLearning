@@ -13,7 +13,7 @@ This project focuses on predicting the stock prices of Tesla (and AMD) by integr
 - Building and training RNN + LSTM models to predict stock closing prices.
 - Evaluating model performance using RMSE and MAPE.
 
-### 🔍 Method Overview
+### Method Overview
 
 #### 📌 Method 1: Use of the Reddit API.
 - See `API method explanation.pdf` for details.
